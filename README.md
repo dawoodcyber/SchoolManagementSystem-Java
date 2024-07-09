@@ -4,14 +4,14 @@
 This is a school management system that provides comprehensive functionalities for managing students, teachers, classes, timetables, and more. Designed to be simple and easy to navigate, it supports only one user role - the admin.
 
 ## Features
-- **Student Management**: Add, update, delete , view and manage student records.
-- **Teacher Management**: Add, update,delete, view and manage teacher information.
-- **Class Management**: Organize, manage through CRUD operations and schedule classes.
-- **Timetable Management**: Create , manage and viewtimetables.
-- **Fees Management**: Record, Update and View Feeses.
+- **Student Management**: Add, update, delete, view, and manage student records.
+- **Teacher Management**: Add, update, delete, view, and manage teacher information.
+- **Class Management**: Organize, manage through CRUD operations, and schedule classes.
+- **Timetable Management**: Create, manage, and view timetables.
+- **Fees Management**: Record, update, and view fees.
 
 ## Database
-The database file is attached for easy setup and use.
+The system uses a relational database with MySQL. The database file is attached for easy setup and use. The program is linked to the database through JDBC, ensuring efficient and reliable data management.
 
 ### Admin Credentials
 - **Username**: dawood
@@ -24,3 +24,5 @@ The database file is attached for easy setup and use.
 
 ## Contributing
 Feel free to fork the repository and submit pull requests for any improvements or new features.
+
+##dawoodcyber
